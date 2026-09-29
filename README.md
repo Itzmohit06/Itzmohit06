@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohit Chavan</h1>
+<h3 align="center">B.Tech AI & ML Student | Aspiring AI/ML Engineer | Deep Learning & Computer Vision Enthusiast</h3>
 
 - 🔭 I’m currently working on **AI/ML and Deep Learning projects.**
 
